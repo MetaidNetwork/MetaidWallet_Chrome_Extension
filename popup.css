@@ -1,0 +1,53 @@
+body {
+  overflow-x: hidden;
+  min-width: 180px;
+}
+
+.container {
+  width: 280px;
+  color: #314d3e;
+}
+
+.titlee {
+  font-size: 14px;
+  font-weight: bold;
+  background-color:rgb(106, 106, 243);
+  padding: 8px;
+  text-align: center;
+}
+
+.one {
+  font-size: 15px;
+  font-weight: bold;
+ 
+  padding: 15px;
+  text-align: center;
+}
+
+
+#qr {
+  margin: 5px;
+  border: 2px solid black;
+  vertical-align: middle;
+  background-color: red;
+  color: red;
+}
+
+#textbox {
+  width: 100%;
+  border: 1px solid silver;
+}
+
+.center {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#close {
+  font: bold 18px sans-serif;
+  text-align: right;
+  cursor: pointer;
+  padding: 8px;
+  float: right;
+}
+
