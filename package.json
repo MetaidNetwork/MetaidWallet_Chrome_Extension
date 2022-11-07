@@ -27,8 +27,14 @@
     "type": "git",
     "url": ""
   },
-  "dependencies": {},
+  "dependencies": {
+    "mobx-react-lite": "^3.4.0",
+    "react": "^18.2.0",
+    "react-intl": "^6.2.1"
+  },
   "devDependencies": {
+    "@types/react": "^18.0.25",
+    "@types/react-intl": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^5.5.0",
     "@typescript-eslint/parser": "^5.5.0",
     "cpy-cli": "^4.1.0",
